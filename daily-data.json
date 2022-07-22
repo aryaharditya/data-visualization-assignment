@@ -1,0 +1,13 @@
+[{"Day":"Monday","CoffeePerDay":10,"StepsClimbedPerDay":1000,"SmilesPerDay":1,"MusicStream":3},
+
+{"Day":"Tuesday","CoffeePerDay":2,"StepsClimbedPerDay":5000,"SmilesPerDay":3,"MusicStream":5},
+
+{"Day":"Wednesday","CoffeePerDay":6,"StepsClimbedPerDay":2500,"SmilesPerDay":1,"MusicStream":5},
+
+{"Day":"Thursday","CoffeePerDay":3,"StepsClimbedPerDay":8000,"SmilesPerDay":5,"MusicStream":7},
+
+{"Day":"Friday","CoffeePerDay":2,"StepsClimbedPerDay":500,"SmilesPerDay":10,"MusicStream":8},
+
+{"Day":"Saturday","CoffeePerDay":7,"StepsClimbedPerDay":2030,"SmilesPerDay":15,"MusicStream":10},
+
+{"Day":"Sunday","CoffeePerDay":4,"StepsClimbedPerDay":100,"SmilesPerDay":5,"MusicStream":10}]
